@@ -9,17 +9,17 @@
   "env": {
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
-      "value": ".",
+      "value": "@",
       "required": false
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "kyo soma",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "225 0501361832",
       "required": true
     },
     "MODE": {
