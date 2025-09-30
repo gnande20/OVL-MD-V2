@@ -19,7 +19,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "225 0501361832",
+      "value": "2250501361832",
       "required": true
     },
     "MODE": {
